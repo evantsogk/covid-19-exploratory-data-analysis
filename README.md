@@ -4,5 +4,4 @@ Project for my MSc course 'Programming tools for data science'. The data used ha
 ### Example figures
 <img src="imgs/greece_confirmed.png">
 
-### Code execution results
 <img src="imgs/countries_deaths.png">
